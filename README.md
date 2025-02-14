@@ -75,7 +75,7 @@ Created an **interactive dashboard** to visualize ride data trends:
 ## 📢 Let's Connect!  
 💡 If you liked this project, feel free to ⭐ star the repository and share your thoughts!  
 
-🔗 **Connect with me on LinkedIn** – [Rohit Panwar](https://www.linkedin.com/in/rohit-panwar22/)  
+🔗 **Connect with me on LinkedIn** – [MD SAKIB REJA](https://www.linkedin.com/in/md-sakib-reja-8aa93a221/)
 
 ---
 
